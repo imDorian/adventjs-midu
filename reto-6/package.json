@@ -1,0 +1,11 @@
+{
+  "name": "reto-6",
+  "version": "1.0.0",
+  "description": "reto 6 adventjs midu",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
